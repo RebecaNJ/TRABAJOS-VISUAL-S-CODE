@@ -1,37 +1,16 @@
 
-#texto1{
-    background-color: red;
-    height: 30px;
-
-}
-
-#texto2{
-    background-color:grey;
-    height: 30px;
-
-
-}
-
-
-#h1{
+header{
     font-weight: bold;
+    font-size: 50px;
 }
-
-
-#p{
-    font-size: 100px;
-    background-color: green;
-    
-    }
-
 img{
-   
     float: right;
 }
-
+p{
+    font-size: 20px;
+    background-color: chartreuse;
+}
 footer{
-   background-color: greenyellow;
-   float: right;
-
-
+    background-color: yellowgreen;
+    float: right;
 }

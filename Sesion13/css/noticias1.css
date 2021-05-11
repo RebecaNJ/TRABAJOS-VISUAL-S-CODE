@@ -1,0 +1,32 @@
+
+#titulo{
+    color: ivory;
+    background-color: red;
+    font-style: initial;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+#t_noticia{
+    font-size: 20px;
+}
+
+ul.navega li{
+    background-color: gray;
+    display: inline;
+    padding-right: 0.5em;
+    color:ivory;
+}
+img{
+    float: right;
+}
+p{
+    font-size: 20px;
+    
+}
+footer{
+    color: ivory;
+    background-color:red;
+    float: right;
+}
