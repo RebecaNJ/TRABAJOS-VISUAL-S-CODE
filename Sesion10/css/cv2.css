@@ -1,0 +1,57 @@
+#caja{
+    margin: 0px;
+    padding: 0px;
+background:blue;
+color: chartreuse;
+font-family: arial;
+text-align: center;
+}
+
+img{
+    width: 150px;
+}
+
+ a.e1{
+    margin: 0px;
+    padding: 0px;
+    background: black;
+    color: ivory;
+    float: right;
+
+}
+div, div h1{
+    font-family: arial;
+    margin: 0px;
+    padding: 0px;
+    background: blue;
+    color: chartreuse;
+
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    background:skyblue;
+}
+
+h2{
+    background: blue;
+    color: chartreuse;
+}
+div{
+    margin: 0px;
+    padding: 0px;
+    color:black;
+    background:skyblue;
+    font-family: tahoma;
+
+
+}
+th{
+    color: red;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    background:skyblue;
+}
