@@ -1,0 +1,79 @@
+.div1{
+    background-color: skyblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    float: left;
+    width: 100px;
+}
+p{
+    color:black;
+}
+header{
+    font-size: 40px;
+    font-family: Calibri;
+}
+.tabla1{
+    background-color: black;
+}
+
+.td1{
+    height: 50px;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
+li{
+    color: black;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+fieldset{
+    background-color: aquamarine;
+    align-content: center;
+    margin: auto;
+}
+
+
+
+footer {
+    grid-area: my-aside;
+    background-color: skyblue;
+}
+
+footer img{
+    float: left;
+    width: 0px;
+
+}
+
+
+
+div p{
+    color: ivory;
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+ section img{
+    float: right;
+
+}
+nav{
+    background-color: cornflowerblue;
+    width: 25%;
+}
+
+
+
