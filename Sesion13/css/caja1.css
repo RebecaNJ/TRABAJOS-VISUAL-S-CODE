@@ -1,5 +1,7 @@
 #caja{
     margin: 0px;
     padding: 0px;
+    height: 60px;
+    width: auto;
 background:pink;
 }

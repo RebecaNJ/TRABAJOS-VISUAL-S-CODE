@@ -1,0 +1,55 @@
+
+#titulo{
+    color: ivory;
+    background-color: red;
+    font-style: initial;
+    font-size: 50px;
+    padding: 10px;
+  top: 1000px;
+    text-align: center;
+    
+
+}
+
+#t_noticia{
+    font-size: 20px;
+}
+
+ul.navega li{
+  
+    height: 40px;
+    background: gray;
+    display: inline;
+    padding-right: 0.5em;
+    color:ivory;
+}
+.a{
+    color: ivory;
+}
+img{
+    float: right;
+}
+p{
+    font-size: 20px;
+    
+}
+footer{
+    color: ivory;
+    background-color:red;
+    float: right;
+}
+
+.div{
+ 
+    width: 100%; 
+    height: 1%;
+    margin: 0px;
+    padding: 0px;
+  top: 0px;
+    background: gray;
+  
+    
+}
+h2{
+    color: red;
+}

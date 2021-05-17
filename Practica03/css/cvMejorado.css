@@ -1,0 +1,86 @@
+#caja{
+    margin: 0px;
+    padding: 0px;
+background:blue;
+color: chartreuse;
+font-family: arial;
+text-align: center;
+}
+body{
+    background:skyblue;
+}
+
+img{
+    width: 150px;
+}
+.em{
+    font-weight: bold
+}
+
+ a.e1{
+    margin: 0px;
+    padding: 0px;
+    background: black;
+    color: ivory;
+    float: right;
+
+}
+div, div h1{
+    font-family: arial;
+    margin: 0px;
+    padding: 0px;
+    background: blue;
+    color: chartreuse;
+
+}
+.enlaces{
+    background-color: black;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    background:skyblue;
+}
+
+h2{
+    background: blue;
+    color: chartreuse;
+    font-family: Broadway;
+}
+div{
+    margin: 0px;
+    padding: 0px;
+    color:black;
+    background:skyblue;
+    font-family: tahoma;
+
+
+}
+th{
+    color: red;
+}
+
+ul{
+    
+  
+    background:skyblue;
+}
+
+#tabla{
+    border-collapse: collapse;
+    border-spacing: 50px 1px;
+    font-family: tahoma;
+
+}
+.divfi{
+    font-size: 8px;
+    text-align: center;
+    background-color: black;
+    color: ivory;
+
+}
+.z{
+    font-size: 7px;
+   
+}
+

@@ -6,9 +6,15 @@ color: chartreuse;
 font-family: arial;
 text-align: center;
 }
+body{
+    background:skyblue;
+}
 
 img{
     width: 150px;
+}
+.em{
+    font-weight: bold
 }
 
  a.e1{
@@ -27,6 +33,9 @@ div, div h1{
     color: chartreuse;
 
 }
+.enlaces{
+    background-color: black;
+}
 p{
     margin: 0px;
     padding: 0px;
@@ -36,6 +45,7 @@ p{
 h2{
     background: blue;
     color: chartreuse;
+    font-family: Broadway;
 }
 div{
     margin: 0px;
@@ -51,7 +61,26 @@ th{
 }
 
 ul{
-    margin: 0px;
-    padding: 0px;
+    
+  
     background:skyblue;
 }
+
+#tabla{
+    border-collapse: collapse;
+    border-spacing: 50px 1px;
+    font-family: tahoma;
+
+}
+.divfi{
+    font-size: 8px;
+    text-align: center;
+    background-color: black;
+    color: ivory;
+
+}
+.z{
+    font-size: 7px;
+   
+}
+
